@@ -2,7 +2,8 @@
 
 
 
-### 1. [Countdown Timer](https://guides.github.com/features/mastering-markdow/).
+
+### 1. [Countdown Timer](/features/mastering-markdow/).
 
 ### 2. [Quiz App]
 
